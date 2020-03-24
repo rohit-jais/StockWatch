@@ -1,0 +1,24 @@
+#main{
+    margin-top: 50px;
+    margin-left: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#txt-colr{
+    color:#133758;
+    font-size: 60px
+}
+#maroon{
+    color: maroon
+}
+#blue{
+    color:#133758;
+}
+#foot{
+    background-color: skyblue ;
+    height: 320px;
+    margin-bottom: 0;
+    color:#133758 ;
+}
+
