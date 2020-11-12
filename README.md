@@ -7,9 +7,11 @@ Stock-Watch is able to represent graphical/chart visualization of Real-Time/Hist
 https://stocks-watch.netlify.app/
 
 ## Used Libraries and Database
-###Stack Used & Reference
-1.Stacks and Framework:
-2.React.js, Redux, Routing, Bootstrap
+Stack Used & Reference
+1.React.js
+2.Redux 
+3.Routing 
+4.Bootstrap
 
-###API used:
+API used:
 Alpha Vantage and Google Charts
