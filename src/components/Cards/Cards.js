@@ -321,10 +321,7 @@ export default class Cards extends React.Component {
               <b>About</b>
             </h1>
             <p class="lead">
-              <b>
-                This product was build under Masai School's Hackathon Contest,
-                which was conducted on 21st Feb and lasted for 36 hours.{" "}
-              </b>
+             
             </p>
             <hr></hr>
             <div class="text-center mt-5">
@@ -337,7 +334,7 @@ export default class Cards extends React.Component {
           <div class="text-center ">
             <small>
               <b>
-                © 2020 | DEFCON: "TWO" | Prabhat Kr. Ranjan and Rohit Jaiswal
+                © 2020 |  Rohit Jaiswal
               </b>
             </small>
           </div>
